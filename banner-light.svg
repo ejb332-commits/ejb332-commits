@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Ezra Burghouts banner">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#eef2f7"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0969da" stop-opacity="0"/><stop offset="1" stop-color="#0969da"/></linearGradient>
+<linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0969da" stop-opacity=".25"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+<g stroke="#e3e8ee" stroke-width="1"><path d="M0 75H1200M0 150H1200M0 225H1200"/><path d="M200 0V300M400 0V300M600 0V300M800 0V300M1000 0V300"/></g>
+<path d="M560 250 L650 215 L720 232 L800 170 L870 190 L950 120 L1030 140 L1110 70 L1200 60 V300 H560Z" fill="url(#ar)"/>
+<path d="M560 250 L650 215 L720 232 L800 170 L870 190 L950 120 L1030 140 L1110 70 L1200 60" fill="none" stroke="url(#ln)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1110" cy="70" r="6" fill="#0969da"/>
+<text x="70" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#1a7f37">&lt;/&gt;  hello, world</text>
+<text x="70" y="145" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" fill="#1f2328">Ezra Burghouts</text>
+<text x="72" y="192" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#59636e">Mathematics &amp; Computer Science @ Cornell '29</text>
+<rect x="72" y="214" width="150" height="34" rx="17" fill="none" stroke="#0969da" stroke-width="1.5"/>
+<text x="147" y="237" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#0969da">Finance</text>
+<rect x="236" y="214" width="150" height="34" rx="17" fill="none" stroke="#1a7f37" stroke-width="1.5"/>
+<text x="311" y="237" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#1a7f37">Technology</text>
+<rect x="0" y="0" width="1200" height="300" rx="14" fill="none" stroke="#d0d7de" stroke-width="1"/>
+</svg>
