@@ -4,6 +4,15 @@
  <img alt="Ezra Burghouts" src="banner-light.svg">
 </picture>
 
+## About me
+
+Hi, I'm Ezra. I am a student and new to Github.
+| Rank | Hobbies       |
+|-----:|---------------|
+|     1|  Art          |
+|     2|  Running      |
+|     3|  Music        |
+
 <!--
 **ejb332-commits/ejb332-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
