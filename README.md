@@ -11,8 +11,6 @@ Hi, I'm Ezra. I am a student and new to Github.
 <details open>
 <summary>My top Hobbies</summary>
 
-YOUR TABLE
-
 | Rank | Hobbies       |
 |-----:|---------------|
 |     1|  Art          |
