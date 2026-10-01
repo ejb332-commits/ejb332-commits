@@ -7,11 +7,27 @@
 ## About me
 
 Hi, I'm Ezra. I am a student and new to Github.
+
+<details open>
+<summary>My top Hobbies</summary>
+
+YOUR TABLE
+
 | Rank | Hobbies       |
 |-----:|---------------|
 |     1|  Art          |
 |     2|  Running      |
 |     3|  Music        |
+
+</details>
+
+---
+> Success is not final, failure is not fatal: it is the courage to continue that counts
+
+- Winston Churchill
+
+<!-- TO DO: add more details about me later -->
+
 
 <!--
 **ejb332-commits/ejb332-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
